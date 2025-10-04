@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/erikthiart/ai-stock-dashboard)](https://github.com/erikthiart/ai-stock-dashboard)
 
 > **Professional-grade stock analysis with machine learning predictions and real-time technical indicators**
 
@@ -51,8 +50,8 @@ Python 3.8 or higher
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/erikthiart/ai-stock-dashboard.git
-cd ai-stock-dashboard
+git clone https://github.com/aloocoder/Ai-Stock-Dashboard.git
+cd Ai-Stock-Dashboard
 ```
 
 2. **Install dependencies**
@@ -166,30 +165,6 @@ Our AI uses a **Random Forest Regressor** trained on 30+ features including:
 - Consider consulting with financial professionals
 - Markets involve risk and potential loss of capital
 
-## 🛠️ Technical Architecture
-
-```
-├── stock_dashboard.py      # Main application
-├── requirements.txt        # Dependencies
-├── README.md              # Documentation
-└── screenshots/           # UI screenshots
-    ├── main_dashboard.jpg
-    ├── technical_analysis.jpg
-    ├── ml_predictions.jpg
-    ├── performance_metrics.jpg
-    ├── ai_analysis.jpg
-    └── company_info.jpg
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -201,21 +176,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** for the amazing web framework
 - **Plotly** for interactive visualizations
 - **scikit-learn** for machine learning capabilities
-
-## 📞 Support
-
-If you find this project helpful, please give it a ⭐ on GitHub!
-
-For questions or issues:
-- Open an [Issue](https://github.com/erikthiart/ai-stock-dashboard/issues)
-
----
-
-<div align="center">
-
-**Built with ❤️ and Python**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erikthiart)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikthiart)
-
-</div>
